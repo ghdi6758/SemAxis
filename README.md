@@ -8,7 +8,7 @@ Because word semantics can substantially change across communities and contexts,
 Here, we propose *SemAxis*, a simple yet powerful framework to characterize word semantics using many semantic axes in word-vector spaces beyond sentiment. We demonstrate that *SemAxis* can capture nuanced semantic representations in multiple online communities. We also show that, when the sentiment axis is examined, *SemAxis* outperforms the state-of-the-art approaches in building domain-specific sentiment lexicons. 
 
 
-### [732 Pre-defined Semantic Axes for download](https://github.com/ghdi6758/SemAxis/axes/732_semaxis_axes.txt)
+### [732 Pre-defined Semantic Axes for download](https://github.com/ghdi6758/SemAxis/axes/732_semaxis_axes.tsv)
 
 The file includes 732 antonym word pairs.
 The file is tab-separated. 
