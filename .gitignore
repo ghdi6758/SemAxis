@@ -1,1 +1,6 @@
 !*.txt
+code/test\.ipynb
+
+code/__pycache__/
+
+code/\.ipynb_checkpoints/
