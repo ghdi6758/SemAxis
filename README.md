@@ -10,7 +10,7 @@ Because word semantics can substantially change across communities and contexts,
 
 ### Building a lexicon for various semantic axes (including and beyond sentiment)
 
-![alt text](https://drive.google.com/open?id=14fEtf23sEqq0ETv1blfHeRgmZdOsODZz "Define a semantic axis")
+![alt text](https://github.com/ghdi6758/SemAxis/blob/master/doc/images/semaxis_diagram.png "Define a semantic axis")
 
 
 
