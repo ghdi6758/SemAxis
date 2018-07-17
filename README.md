@@ -35,8 +35,8 @@ We make pre-trained word embeddings used in this study availalbe to download.
     * [/r/Christianity](https://drive.google.com/file/d/1nM1YSzSh04rdNoAfpXYvanVVB8CvmMUR/view?usp=sharing)
     * [/r/NintendoSwitch](https://drive.google.com/file/d/1NdJDz6SxfByfCGWIGdI82ATqEhbiPv5x/view?usp=sharing)
     * [/r/PS4](https://drive.google.com/file/d/1G-6Tbzue_LdwG7yj0kjFywCmDauHYC7a/view?usp=sharing)
-    * [/r/AskWomen]()
-    * [/r/AskMen]()
+    * [/r/AskWomen](https://drive.google.com/file/d/1NQOfgrggyxjPja8INjLxLVMV-HRZS_KY/view?usp=sharing)
+    * [/r/AskMen](https://drive.google.com/file/d/1s4_5TwfRdAfOlJJZvODUJhgQJxLahUCW/view?usp=sharing)
 
 
 ### 732 Pre-defined Semantic Axes for download
