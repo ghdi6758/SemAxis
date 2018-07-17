@@ -8,11 +8,31 @@ Because word semantics can substantially change across communities and contexts,
 
 ## Highlights
 
+### Building a lexicon for various semantic axes (including and beyond sentiment)
+
+![alt text](https://drive.google.com/open?id=14fEtf23sEqq0ETv1blfHeRgmZdOsODZz "Define a semantic axis")
+
+
+
 ## Citing SemAxis
 
 If you make use of this work in your research please cite the following paper:
 
 Jisun An, Haewoon Kwak, and Yong-Yeol Ahn. 2018. SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment. *In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL'18)*
+
+### Bibtex
+@InProceedings{P18-1228,
+  author = 	"An, Jisun
+		and Kwak, Haewoon
+		and Ahn, Yong-Yeol",
+  title = 	"SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"2450--2461",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-1228"
+}
 
 
 
@@ -27,7 +47,7 @@ To use SemAxis you will need to download some that are pre-trained. Once this is
 We make pre-trained word embeddings used in this study availalbe to download. 
 
 * [Google300D](https://code.google.com/archive/p/word2vec) Note that for SemAxis, bin file needs to be converted to text file: [see](https://stackoverflow.com/questions/27324292/convert-word2vec-bin-file-to-text)
-* [Reddit20M](https://drive.google.com/file/d/1ewmS5Uu4tWAkwWsuY8FZVgLr85vvZXye/view?usp=sharing)
+* [Reddit20M](https://drive.google.com/file/d/1ewmS5Uu4tWAkwWsuY8FZVgLr85vvZXye/view?usp=sharing) We sample 1M comments 
 * Subreddits
 	* [/r/SandersForPresident](https://drive.google.com/file/d/1rfHPRY8_wTpqIYvh4CRzv7FZIw_PaVyy/view?usp=sharing)
     * [/r/The_Donald](https://drive.google.com/file/d/1QE3X9CUsKndKguyNoHwRrTsxa4sBUt5V/view?usp=sharing)
@@ -51,6 +71,9 @@ An up-to-date Python 3.5 distribution, with the standard packages provided by th
 In particular, the code was tested with:
 
 numpy (1.14.0)
+
 gensim (3.4.0)
+
 scipy (1.0.0)
+
 sklearn (0.18.dev0 or 0.17.1)
