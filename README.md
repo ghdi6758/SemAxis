@@ -76,6 +76,6 @@ An up-to-date Python 3.5 distribution, with the standard packages provided by th
 
 In particular, the code was tested with:
 
-numpy (1.14.0) 
-gensim (3.4.0) 
-scipy (1.0.0)    
+numpy (1.14.0)  
+gensim (3.4.0)  
+scipy (1.0.0)     
