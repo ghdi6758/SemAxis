@@ -31,7 +31,7 @@ if __name__ == '__main__':
     import gensim
     
 
-    EMBEDDING_PATH = "" ### Yout path to embedding file 
+    EMBEDDING_PATH = "" ### Your path to embedding file 
 
     ######################################################################
     ### Google News embedding (Download: https://code.google.com/archive/p/word2vec/). Note that for SemAxis, bin file needs to be converted to text file: see https://stackoverflow.com/questions/27324292/convert-word2vec-bin-file-to-text)
